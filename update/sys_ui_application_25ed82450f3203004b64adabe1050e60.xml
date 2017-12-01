@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>Git  Hub Table</name>
+        <order/>
+        <roles>x_154586_git_hub.git_hub_table_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-12-01 08:00:24</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>25ed82450f3203004b64adabe1050e60</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Git  Hub Table</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Git Hub" source="x_154586_git_hub">b06d02c10f3203004b64adabe1050ea4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Git Hub">b06d02c10f3203004b64adabe1050ea4</sys_scope>
+        <sys_update_name>sys_ui_application_25ed82450f3203004b64adabe1050e60</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-12-01 08:00:24</sys_updated_on>
+    </sys_ui_application>
+</record_update>

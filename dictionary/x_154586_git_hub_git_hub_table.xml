@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Git  Hub Table" max_length="40" name="x_154586_git_hub_git_hub_table" type="collection">
+        <element label="Created" max_length="40" name="created" type="glide_date_time"/>
+        <element label="Created by" max_length="40" name="created_by" reference="x_154586_git_hub_40" type="string"/>
+        <element label="name" max_length="40" name="name" reference="x_154586_git_hub_40" type="string"/>
+    </element>
+</database>
